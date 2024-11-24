@@ -1,5 +1,6 @@
 # artifact
 Изучение артефактов, возникающих при аффинных преобразованиях.
+
 Фото повернуто с помощью алгоритма Оуэна и Македона:
 ![output_image_shifted_3](https://github.com/user-attachments/assets/bdad5ce1-4813-4113-b034-54f73a78e641)
 
